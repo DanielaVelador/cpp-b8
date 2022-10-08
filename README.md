@@ -1,1 +1,1 @@
-# parametros
+# ejercicios y prácticas de bachillerato
